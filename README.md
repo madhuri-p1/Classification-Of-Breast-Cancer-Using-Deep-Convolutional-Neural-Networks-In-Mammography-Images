@@ -1,8 +1,6 @@
-# Classification-Of-Breast-Cancer-Using-Deep-Convolutional-Neural-Networks-In-Mammography-Images
-
-Our objective is to classify breast cancer using appropriate Deep Convolutional Neural Networks
-(CNNs) techniques. The Methodology used in the current study that classify the presence of breast
-cancer or not using Kaggle data which includes digital mammography images with associated clinical
-data that was created exclusively for the development and testing of algorithms and systems for the early
-identification and diagnosis of breast cancer. Images from the DDSM (Digital Database for Screening
-Mammography) and CBIS-DDSM datasets are included in this dataset.
+1.Implemented a project framework for breast cancer classification in mammograms, distinguishing between
+benign and malignant cases.
+2. Implemented ResNet-50, a state-of-the-art CNN model, for feature extraction& five classifiers (KNN, SVM, RFC,
+Ada-Boost, XGB) to distinguish between benign and malignant images
+3. Achieved superior performance compared to other models on the same dataset, boasting an impressive
+accuracy rate of 87%.
